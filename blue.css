@@ -179,9 +179,9 @@ h6 {
 	display: block;
 	margin: 0 auto;  /*to center the image*/
 	height: 190px;
-	width: 190px;
+	width: 160px;
 	border: 2px solid var(--borderColor);
-	border-radius: 50%
+	
 }
 
 #theme-options-wrapper {
