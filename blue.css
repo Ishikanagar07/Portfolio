@@ -179,7 +179,7 @@ h6 {
 	display: block;
 	margin: 0 auto;  /*to center the image*/
 	height: 190px;
-	width: 150px;
+	width: 130px;
 	border: 2px solid var(--borderColor);
 	
 }
